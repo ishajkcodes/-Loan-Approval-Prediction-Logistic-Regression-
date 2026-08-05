@@ -38,7 +38,3 @@ Some of the relationships explored include:
 - Loan term distribution and approval rates  
 - Self-employment status and its influence  
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/loan-prediction-logistic.git
